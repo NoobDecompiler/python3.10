@@ -1,3 +1,0 @@
-"""
-Executors Directory
-"""

@@ -1,3 +1,0 @@
-"""
-Init Openstack apis
-"""
