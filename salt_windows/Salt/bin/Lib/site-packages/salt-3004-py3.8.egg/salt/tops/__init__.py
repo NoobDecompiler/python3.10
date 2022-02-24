@@ -1,3 +1,0 @@
-"""
-Tops Directory
-"""
